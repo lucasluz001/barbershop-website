@@ -25,6 +25,10 @@ You can **clone** the repository to your local machine or **fork** it in your Gi
 git clone https://github.com/bedimcode/responsive-barbershop-website.git
 ```
 
-Designed & developed with ❤️ by **[Bedimcode](https://www.youtube.com/@Bedimcode)**
+Designed & developed by **[LucasLuz001](https://www.youtube.com/@Bedimcode)**
+
+I created this barbershop website to add more options to my portfolio. This project was fully built by following tutorials from Bedimcode. Check it out here: **[Bedimcode - Barbershop](https://github.com/bedimcode/responsive-barbershop-website)**
 
 ![preview img](/preview.png)
+
+
