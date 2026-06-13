@@ -385,6 +385,11 @@ img {
     color:var(--title-color)
   }
 
+  /* Change header styles */
+.scroll-header .nav__link{
+  color: var(--title-color);
+}
+
   .home{
     height: 870px;
   }
@@ -402,9 +407,5 @@ img {
   }
 }
 
-/* Change header styles */
-.scroll-header .nav__link{
-  color: var(--title-color);
-}
 
 /* For 2K resolutions <> */
