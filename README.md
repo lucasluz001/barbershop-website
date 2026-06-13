@@ -29,6 +29,8 @@ Designed & developed by **[LucasLuz001](https://www.youtube.com/@Bedimcode)**
 
 I created this barbershop website to add more options to my portfolio. This project was fully built by following tutorials from Bedimcode. Check it out here: **[Bedimcode - Barbershop](https://github.com/bedimcode/responsive-barbershop-website)**
 
+**[Website on github.io](https://lucasluz001.github.io/barbershop-website/)**
+
 ![preview img](/preview.png)
 
 
