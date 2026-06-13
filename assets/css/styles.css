@@ -139,7 +139,7 @@ img {
   width: 100%;
   top: 0;
   left: 0;
-  background-color: #000;
+  background-color: transparent;
   z-index: var(--z-fixed);
   transition: background-color .4s, box-shadow .4s;
 }
@@ -225,7 +225,14 @@ img {
 }
 
 /* Change header styles */
+.scroll-header{
+  background-color: var(--body-color);
+  box-shadow: 0 8px 16px hsla(0, 0%, 0%, .15);
+}
 
+.scroll-header :is(.nav__logo, .nav__toggle){
+  color: var(--title-color);
+}
 
 /* Active link */
 
@@ -307,6 +314,11 @@ img {
   .nav__button{
     color:var(--title-color)
   }
+}
+
+/* Change header styles */
+.scroll-header .nav__link{
+  color: var(--title-color);
 }
 
 /* For 2K resolutions <> */
